@@ -1,3 +1,5 @@
+[中文](./README_zh.md)
+
 # Frida Android Hook Skill
 
 An AI-assisted Skill for performing Frida dynamic instrumentation on Android applications in a Windows PowerShell environment. It provides a complete interactive workflow covering environment checks, frida-server deployment, target selection, hook injection, and cleanup.

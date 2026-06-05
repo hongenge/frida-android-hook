@@ -1,3 +1,5 @@
+[English](./README.md)
+
 # Frida Android Hook Skill
 
 Windows PowerShell 环境下对 Android 应用进行 Frida 动态插桩的 AI 辅助 Skill，提供从环境检查、frida-server 部署、目标选择到 Hook 注入与清理的完整交互式工作流。
